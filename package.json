@@ -1,8 +1,8 @@
 {
-  "name": "jamstack-intro",
+  "name": "contact-form",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "git@github.com:Stephany-Doris/JAMstack-application.git",
+  "repository": "git@github.com:Stephany-Doris/Contact-form.git",
   "author": "Stephany Doris",
   "license": "MIT",
   "scripts": {
